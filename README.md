@@ -1,6 +1,4 @@
-# portfolio-datascience-recommender
-
-RECOMMENDING MOVIES
+# RECOMMENDING MOVIES
 
 In this document, we walk through some helpful tips to get you started with building your own Recommendation engine based on the case studies discussed in the Recommendation systems module. In this tutorial, we provide examples and some pseudo-code for the following programming environments: R, Python. We cover the following:
 
